@@ -4,7 +4,7 @@ Data cleaning of USA census data in Python, KNIME Machine Learning Workflow and 
 
 # Question of Interest  :  
 
-### Can we predict which individuals make over $50k in income to market for a  $25 million direct marketing campaign?
+#### Can we predict which individuals make over $50k in income to market for a  $25 million direct marketing campaign?
 
 YES, We Can! Initially using Python, the data is cleansed and exploratory data analysis is performed. Further 3 models were built :
 
@@ -14,6 +14,12 @@ YES, We Can! Initially using Python, the data is cleansed and exploratory data a
 
 3. Tree Model (CART) 
 
-### A $25 million marketing campaign was built using the Random Forest model, which was 94% accurate.
+###$ A $25 million marketing campaign was built using the Random Forest model, which was 94% accurate.
 
 # Technology Used : Python, KNIME, Tableau
+
+
+# Model comparison
+
+![image](https://user-images.githubusercontent.com/116682872/230787233-388bbbc7-e186-41ab-8e8b-59f49da88871.png)
+
