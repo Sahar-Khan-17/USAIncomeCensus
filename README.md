@@ -8,12 +8,12 @@ Data cleaning of USA census data in Python, KNIME Machine Learning Workflow and 
 
 YES, We Can! Initially using Python, the data is cleansed and exploratory data analysis is performed. Further 3 models were built :
 
-Naïve Bayes Model 
+1. Naïve Bayes Model 
 
-Logit Model   
+2. Logit Model   
 
-Tree Model (CART) 
+3. Tree Model (CART) 
 
-A $25 million marketing campaign was built using the random forest model, which was 94% accurate.
+### A $25 million marketing campaign was built using the Random Forest model, which was 94% accurate.
 
 # Technology Used : Python, KNIME, Tableau
